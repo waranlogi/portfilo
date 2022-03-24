@@ -7,7 +7,7 @@
   position: relative;
   width: 100%;
   height: 100vh;
-  background-color: lightgrey;
+  background-color: lightgreen;
 }
 .hero nav{
   display: flex;
@@ -62,7 +62,7 @@
 }
 .hero .images{
     width: 45%;
-    height: 70%;
+    height: 80%;
     position: absolute;
     bottom: 0;
     right: 100px;
@@ -70,7 +70,7 @@
 .hero .images img{
     height: 100%;
     position: absolute;
-    left: 50%;
+    left: 60%;
     bottom: 0;
     transform: translateX(-50%);
     transition: bottom 1s, left 1s;
